@@ -1,0 +1,8 @@
+name: nsai
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pip
+  - pip:
+    - https://github.com/IBM/LNN
