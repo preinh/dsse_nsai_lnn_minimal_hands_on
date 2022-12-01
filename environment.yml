@@ -4,5 +4,6 @@ channels:
 dependencies:
   - python=3.9
   - pip
+  - pygraphviz
   - pip:
     - git+https://github.com/IBM/LNN.git
